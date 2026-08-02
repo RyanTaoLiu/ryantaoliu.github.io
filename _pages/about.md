@@ -25,16 +25,48 @@ Before my Ph.D., I received my **B.S. and M.S. degrees in Computational Mathemat
 
 ## Publications, Service & Collaborative Projects
 
-### Selected Publications
+### Selected (Co-)First-Author Publications
 
-I have published in journals and conferences such as **ACM Transactions on Graphics (TOG)**, **IEEE Transactions on Automation Science and Engineering**, and **Composites Part B**. Some of my first-author publications include:
+I have published in journals and conferences such as **ACM Transactions on Graphics (TOG)**, **IEEE Transactions on Automation Science and Engineering**, and **Composites Part B**. Selected (co-)first-author publications include:
 
-- **Co-optimization of structure and manufacturable semi-continuous layers for laminated composites** (ACM TOG / SIGGRAPH, 2026)
-- **Neural co-optimization of structural topology, manufacturable layers, and path orientations for fiber-reinforced composites** (ACM TOG, 2025) - *Monthly Paper Award, School of Engineering, University of Manchester*
-- **Neural Slicer for Multi-Axis 3D Printing** (ACM TOG, 2024)
-- **Curve-Based Slicer for Multi-Axis DLP 3D Printing** (ACM TOG, 2025) - *Best Paper Award, SIGGRAPH Asia*
-- **Can Any Model Be Fabricated? Inverse Operation Based Planning for Hybrid Additive-Subtractive Manufacturing** (ACM TOG, 2025)
-- **Toolpath generation for high density spatial fiber printing guided by principal stresses** (Composites Part B: Engineering, 2025)
+<div class="selected-publications">
+  <div class="selected-publication">
+    <a class="selected-publication__image" href="https://ryantaoliu.github.io/SemiContinuousTOMO/" target="_blank">
+      <img src="/images/publications/SIG2026LaminatedComposites.jpg" alt="Co-optimization of structure and manufacturable semi-continuous layers for laminated composites teaser">
+    </a>
+    <div class="selected-publication__content">
+      <h4><a href="https://ryantaoliu.github.io/SemiContinuousTOMO/" target="_blank">Co-optimization of structure and manufacturable semi-continuous layers for laminated composites</a></h4>
+      <p>ACM TOG / SIGGRAPH, 2026</p>
+    </div>
+  </div>
+  <div class="selected-publication">
+    <a class="selected-publication__image" href="https://ryantaoliu.github.io/NeuralTOMO/" target="_blank">
+      <img src="/images/publications/SIG2025CoOptmFRComposite.jpg" alt="Neural co-optimization of structural topology, manufacturable layers, and path orientations for fiber-reinforced composites teaser">
+    </a>
+    <div class="selected-publication__content">
+      <h4><a href="https://ryantaoliu.github.io/NeuralTOMO/" target="_blank">Neural co-optimization of structural topology, manufacturable layers, and path orientations for fiber-reinforced composites</a></h4>
+      <p>ACM TOG, 2025 - <em>Monthly Paper Award, School of Engineering, University of Manchester</em></p>
+    </div>
+  </div>
+  <div class="selected-publication">
+    <a class="selected-publication__image" href="https://ryantaoliu.github.io/NeuralSlicer/" target="_blank">
+      <img src="/images/publications/SIG2024NeuralSlicer.jpg" alt="Neural Slicer for Multi-Axis 3D Printing teaser">
+    </a>
+    <div class="selected-publication__content">
+      <h4><a href="https://ryantaoliu.github.io/NeuralSlicer/" target="_blank">Neural Slicer for Multi-Axis 3D Printing</a></h4>
+      <p>ACM TOG, 2024</p>
+    </div>
+  </div>
+  <div class="selected-publication">
+    <a class="selected-publication__image" href="https://chengkai-dai.github.io/curved_dlp_slicer/" target="_blank">
+      <img src="/images/publications/SIGAsia2025MultiAxisDLP.jpg" alt="Curve-Based Slicer for Multi-Axis DLP 3D Printing teaser">
+    </a>
+    <div class="selected-publication__content">
+      <h4><a href="https://chengkai-dai.github.io/curved_dlp_slicer/" target="_blank">Curve-Based Slicer for Multi-Axis DLP 3D Printing</a></h4>
+      <p>ACM TOG, 2025 - <em>Best Paper Award, SIGGRAPH Asia</em></p>
+    </div>
+  </div>
+</div>
 
 ### Collaborative Projects
 
