@@ -56,6 +56,9 @@ I also serve as a reviewer for journals and conferences, including:
 - *Graphical Models (GMod)*
 - *Computers & Graphics (CG)*
 
+### Courses
+
+- **<a href="https://ryantaoliu.github.io/Vector3DP/" target="_blank">Vector3DP: Vector Fields for 3D Printing</a>**, SIGGRAPH Asia Course
 
 ## Open Source Software
 

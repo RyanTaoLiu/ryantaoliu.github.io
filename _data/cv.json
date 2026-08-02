@@ -117,9 +117,9 @@
   "publications": [
     {
       "name": "Co-optimization of structure and manufacturable semi-continuous layers for laminated composites",
-      "publisher": "ACM Transactions on Graphics (SIGGRAPH 2026), accepted, July 2026",
+      "publisher": "ACM Transactions on Graphics (SIGGRAPH 2026), 45(4), Article 146, 2026",
       "releaseDate": "2026",
-      "website": "https://ryantaoliu.github.io/SemiContinuousTOMO/",
+      "website": "https://doi.org/10.1145/3811393",
       "summary": "Tao LIU, Aoran Lyu, Yongxue Chen, Yu Jiang, Michael Petty, Charlie C.L. Wang"
     },
     {
@@ -216,6 +216,13 @@
   ],
   "presentations": [],
   "teaching": [
+    {
+      "course": "Vector3DP: Vector Fields for 3D Printing",
+      "institution": "SIGGRAPH Asia",
+      "date": "SIGGRAPH Asia",
+      "role": "Course",
+      "description": "https://ryantaoliu.github.io/Vector3DP/"
+    },
     {
       "course": "Graphics & Virtual Environments",
       "institution": "The University of Manchester",
