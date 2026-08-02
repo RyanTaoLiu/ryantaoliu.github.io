@@ -11,14 +11,6 @@ redirect_from:
   <p class="lead">I am <strong>Tao Liu</strong>, a Ph.D. student at the <a href="https://www.manchester.ac.uk/">University of Manchester</a>, supervised by Professor Charlie C.L. Wang, working in the field of <strong>neural-based design and manufacturing optimization</strong>. My research focuses on <span class="highlight-text">computational geometry, additive manufacturing, and robotics</span>.</p>
 </div>
 
-## Research Interests
-
-My research focuses on **multi-axis 3D printing, topology optimization, and computational design frameworks** for advanced additive manufacturing. I am particularly interested in:
-
-- **Neural implicit representations** for geometric modeling
-- **Computational geometry** and surface reconstruction
-- **Fiber-reinforced composites** and material optimization
-
 ## Education
 
 Before my Ph.D., I received my **B.S. and M.S. degrees in Computational Mathematics**, supervised by Professor Shengjun LIU from [Central South University](https://www.csu.edu.cn/), ChangSha, China.
@@ -67,6 +59,8 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </div>
   </div>
 </div>
+
+<p class="selected-publications__more"><a href="/publications/">View all publications</a></p>
 
 ### Collaborative Projects
 
