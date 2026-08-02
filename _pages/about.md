@@ -28,7 +28,7 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/SemiContinuousTOMO/" target="_blank">Co-optimization of structure and manufacturable semi-continuous layers for laminated composites</a></h4>
-      <p>ACM TOG / SIGGRAPH, 2026</p>
+      <p class="selected-publication__venue">ACM TOG / SIGGRAPH, 2026</p>
     </div>
   </div>
   <div class="selected-publication">
@@ -37,7 +37,8 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/NeuralTOMO/" target="_blank">Neural co-optimization of structural topology, manufacturable layers, and path orientations for fiber-reinforced composites</a></h4>
-      <p>ACM TOG, 2025 - <em>Monthly Paper Award, School of Engineering, University of Manchester</em></p>
+      <p class="selected-publication__venue">ACM TOG, 2025</p>
+      <p class="selected-publication__award">Monthly Paper Award, School of Engineering, University of Manchester</p>
     </div>
   </div>
   <div class="selected-publication">
@@ -46,7 +47,7 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/NeuralSlicer/" target="_blank">Neural Slicer for Multi-Axis 3D Printing</a></h4>
-      <p>ACM TOG, 2024</p>
+      <p class="selected-publication__venue">ACM TOG, 2024</p>
     </div>
   </div>
   <div class="selected-publication">
@@ -55,7 +56,8 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://chengkai-dai.github.io/curved_dlp_slicer/" target="_blank">Curve-Based Slicer for Multi-Axis DLP 3D Printing</a></h4>
-      <p>ACM TOG, 2025 - <em>Best Paper Award, SIGGRAPH Asia</em></p>
+      <p class="selected-publication__venue">ACM TOG, 2025</p>
+      <p class="selected-publication__award">Best Paper Award, SIGGRAPH Asia</p>
     </div>
   </div>
 </div>

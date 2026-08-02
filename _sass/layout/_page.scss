@@ -300,33 +300,40 @@
 
 .selected-publications {
   display: grid;
-  gap: 1.25em;
+  gap: 1.1em;
   margin: 1.5em 0 2em;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 .selected-publication {
-  display: grid;
-  grid-template-columns: minmax(120px, 180px) 1fr;
-  gap: 1em;
-  align-items: center;
-  padding: 1em;
+  display: flex;
+  flex-direction: column;
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-border-color);
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 
-  @include breakpoint(max-width $small) {
-    grid-template-columns: 1fr;
+  &:hover {
+    border-color: var(--global-link-color);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.10);
+    transform: translateY(-2px);
   }
 }
 
 .selected-publication__image {
+  flex: 0 0 auto;
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1.8 / 1;
   overflow: hidden;
-  border-radius: 6px;
-  background-color: var(--global-code-background-color);
+  padding: 0.65em;
+  background-color: rgba(82, 173, 200, 0.06);
+  border-bottom: 1px solid var(--global-border-color);
 
   img {
     display: block;
@@ -337,8 +344,13 @@
 }
 
 .selected-publication__content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 0.95em 1em 1em;
+
   h4 {
-    margin: 0 0 0.45em;
+    margin: 0 0 0.55em;
     font-size: $type-size-5;
     line-height: 1.35;
 
@@ -352,26 +364,42 @@
       }
     }
   }
+}
 
-  p {
-    margin: 0;
-    font-size: $type-size-6;
-    line-height: 1.5;
-  }
+.selected-publication__venue {
+  margin: auto 0 0;
+  color: var(--global-text-color-light);
+  font-size: $type-size-6;
+  line-height: 1.45;
+}
+
+.selected-publication__award {
+  align-self: flex-start;
+  margin: 0.65em 0 0;
+  padding: 0.25em 0.55em;
+  color: var(--global-link-color);
+  background-color: rgba(82, 173, 200, 0.08);
+  border: 1px solid rgba(82, 173, 200, 0.22);
+  border-radius: 999px;
+  font-size: $type-size-7;
+  font-weight: 600;
+  line-height: 1.35;
 }
 
 .selected-publications__more {
-  margin-top: -0.75em;
+  margin-top: -0.5em;
   text-align: right;
 
   a {
+    display: inline-block;
+    padding-bottom: 0.15em;
+    border-bottom: 1px solid currentColor;
     color: var(--global-link-color);
     font-weight: 600;
     text-decoration: none;
 
     &:hover {
       color: var(--global-link-color-hover);
-      text-decoration: underline;
     }
   }
 }
