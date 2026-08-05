@@ -306,8 +306,8 @@
 
 .selected-publication {
   display: grid;
-  grid-template-columns: minmax(150px, 210px) 1fr;
-  gap: 1.1em;
+  grid-template-columns: minmax(210px, 280px) 1fr;
+  gap: 1.25em;
   align-items: center;
   padding: 0.9em 0;
   background-color: var(--global-bg-color);
