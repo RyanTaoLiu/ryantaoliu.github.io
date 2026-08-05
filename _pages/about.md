@@ -28,6 +28,7 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/SemiContinuousTOMO/" target="_blank">Co-optimization of structure and manufacturable semi-continuous layers for laminated composites</a></h4>
+      <p class="selected-publication__authors"><strong>Tao LIU</strong>, Aoran Lyu, Yongxue Chen, Yu Jiang, Michael Petty, Charlie C.L. Wang</p>
       <p class="selected-publication__venue">ACM TOG / SIGGRAPH, 2026</p>
     </div>
   </div>
@@ -37,7 +38,9 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/NeuralTOMO/" target="_blank">Neural co-optimization of structural topology, manufacturable layers, and path orientations for fiber-reinforced composites</a></h4>
+      <p class="selected-publication__authors"><strong>Tao LIU</strong>*, Tianyu Zhang*, Yongxue Chen, Weiming Wang, Yu Jiang, Yuming Huang, Charlie Wang</p>
       <p class="selected-publication__venue">ACM TOG, 2025</p>
+      <p class="selected-publication__note">* Co-first authors</p>
       <p class="selected-publication__award">Monthly Paper Award, School of Engineering, University of Manchester</p>
     </div>
   </div>
@@ -47,6 +50,7 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/NeuralSlicer/" target="_blank">Neural Slicer for Multi-Axis 3D Printing</a></h4>
+      <p class="selected-publication__authors"><strong>Tao LIU</strong>, Tianyu Zhang, Yongxue Chen, Yuming Huang, Charlie Wang</p>
       <p class="selected-publication__venue">ACM TOG, 2024</p>
     </div>
   </div>
@@ -56,7 +60,9 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://chengkai-dai.github.io/curved_dlp_slicer/" target="_blank">Curve-Based Slicer for Multi-Axis DLP 3D Printing</a></h4>
+      <p class="selected-publication__authors">Chengkai Dai*, <strong>Tao LIU</strong>*, Dezhao Guo, Binzhi Sun, Guoxin Fang, Yeung Yam, Charlie C. L. Wang</p>
       <p class="selected-publication__venue">ACM TOG, 2025</p>
+      <p class="selected-publication__note">* Co-first authors</p>
       <p class="selected-publication__award">Best Paper Award, SIGGRAPH Asia</p>
     </div>
   </div>
