@@ -90,6 +90,7 @@ I also serve as a reviewer for journals and conferences, including:
 - *Computer Aided Geometry Design (CAGD)*
 - *IEEE Transactions on Visualization and Computer Graphics (TVCG)*
 - *Eurographics (EG)*
+- *Pacific Graphics (PG)*
 - *Graphical Models (GMod)*
 - *Computers & Graphics (CG)*
 
