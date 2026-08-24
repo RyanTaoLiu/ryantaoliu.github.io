@@ -13,7 +13,8 @@ redirect_from:
 
 ## Education
 
-Before my Ph.D., I received my **B.S. and M.S. degrees in Computational Mathematics**, supervised by Professor Shengjun LIU from [Central South University](https://www.csu.edu.cn/), ChangSha, China.
+- **2023 -- Present**: Ph.D. in Neural-Based Design and Manufacturing Optimization, [University of Manchester](https://www.manchester.ac.uk/), supervised by Professor Charlie C.L. Wang.
+- **Aug 2014 -- Jun 2020**: B.S. and M.S. in Computational Mathematics, [Central South University](https://www.csu.edu.cn/), ChangSha, China, supervised by Professor Shengjun LIU.
 
 ## Publications, Service & Collaborative Projects
 
@@ -50,8 +51,9 @@ I have published in journals and conferences such as **ACM Transactions on Graph
     </a>
     <div class="selected-publication__content">
       <h4><a href="https://ryantaoliu.github.io/NeuralSlicer/" target="_blank">Neural Slicer for Multi-Axis 3D Printing</a></h4>
-      <p class="selected-publication__authors"><strong>Tao LIU</strong>, Tianyu Zhang, Yongxue Chen, Yuming Huang, Charlie Wang</p>
+      <p class="selected-publication__authors"><strong>Tao LIU</strong>*, Tianyu Zhang*, Yongxue Chen, Yuming Huang, Charlie Wang</p>
       <p class="selected-publication__venue">ACM TOG, 2024</p>
+      <p class="selected-publication__note">* Co-first authors</p>
     </div>
   </div>
   <div class="selected-publication">
@@ -84,6 +86,7 @@ I also serve as a reviewer for journals and conferences, including:
 - *ACM Symposium on Computational Fabrication (SCF)*
 - *Additive Manufacturing Process (AMP)*
 - *Computer Aided Design (CAD)*
+- *International Conference on Computer-Aided Design and Computer Graphics (CAD/Graphics)*
 - *Computer Aided Geometry Design (CAGD)*
 - *IEEE Transactions on Visualization and Computer Graphics (TVCG)*
 - *Eurographics (EG)*
