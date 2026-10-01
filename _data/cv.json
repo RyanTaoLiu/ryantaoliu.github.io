@@ -179,6 +179,27 @@
       "summary": "Renbo Su, Tao LIU, Tianyu Zhang, Yingjun Tian, Romain Hautier, Weiming Wang, Charlie C.L. Wang"
     },
     {
+      "name": "Compatibility-aware morphology learning for mechanical-acoustic inverse design of functionally graded metamaterials",
+      "publisher": "Computer Methods in Applied Mechanics and Engineering, vol. 463, article no. 119432, 25 pages, January 2027",
+      "releaseDate": "2027",
+      "website": "https://doi.org/10.1016/j.cma.2026.119432",
+      "summary": "Yu Jiang, Weiming Wang, Yingjun Tian, Tao LIU, Ilinca Pastia, Michael Petty, Charlie C.L. Wang"
+    },
+    {
+      "name": "Field optimization for scalable and distortion-aware process planning in hybrid additive-subtractive manufacturing",
+      "publisher": "ACM Transactions on Graphics (SIGGRAPH Asia 2026), vol. 45, no. 6, article no. 252, 16 pages, December 2026",
+      "releaseDate": "2026",
+      "website": "https://doi.org/10.1145/3842560",
+      "summary": "Yongxue Chen, Tao LIU, Aoran Lyu, Yu Jiang, Neelotpal Dutta, Charlie C.L. Wang"
+    },
+    {
+      "name": "Feedrate optimization based on transient thermal modeling for IR-assisted 3D compaction printing of continuous carbon fiber-reinforced thermoplastics on curved surfaces",
+      "publisher": "Composites Part B: Engineering, accepted, September 2026",
+      "releaseDate": "2026",
+      "website": "https://dx.doi.org/10.1016/j.compositesb.2026.114238",
+      "summary": "Zikang Shi, Michael Petty, Tao LIU, Charlie C.L. Wang"
+    },
+    {
       "name": "Force-Based Adaptive Deposition in Multi-Axis Additive Manufacturing: Low Porosity for Enhanced Strength",
       "publisher": "Robotics and Computer-Integrated Manufacturing, 2026",
       "releaseDate": "2026",
@@ -277,7 +298,8 @@
     "reviewer": [
       "ACM SIGGRAPH and SIGGRAPH Asia",
       "Additive Manufacturing Process (AMP)",
-      "Computer Aided Design (CAD)",
+      "Computer-Aided Design (CAD)",
+      "Advances in Engineering Software",
       "ACM Symposium on Computational Fabrication (SCF)",
       "International Conference on Computer-Aided Design and Computer Graphics (CAD/Graphics)",
       "Computer Aided Geometry Design (CAGD)",

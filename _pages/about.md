@@ -85,7 +85,8 @@ I also serve as a reviewer for journals and conferences, including:
 - **ACM SIGGRAPH** and **SIGGRAPH Asia**
 - *ACM Symposium on Computational Fabrication (SCF)*
 - *Additive Manufacturing Process (AMP)*
-- *Computer Aided Design (CAD)*
+- *Computer-Aided Design (CAD)*
+- *Advances in Engineering Software*
 - *International Conference on Computer-Aided Design and Computer Graphics (CAD/Graphics)*
 - *Computer Aided Geometry Design (CAGD)*
 - *IEEE Transactions on Visualization and Computer Graphics (TVCG)*
